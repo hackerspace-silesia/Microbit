@@ -63,19 +63,6 @@ Python 3.4.3
 ```
 W razie jakichkolwiek wątpliwości albo jeśli coś poszło nie tak i nie wiesz, co dalej robić - po prostu zapytaj osobę prowadzącą kurs. Czasami nie wszystko idzie tak, jak powinno i najlepszym wyjściem z sytuacji jest poprosić o pomoc kogoś bardziej doświadczonego.
 
-# Instalacja jupyter'a
+# Instalacja edytora Mu
 
-Uruchum konsolę i wykonaj następujące komendy(na Linuksie w zależności od dystrybucji komenda python może być zastąpiona komendą python3)
-```sh
-python -m venv lab
-pip install jupyterlab
-pip install ubit_kernel
-python -m ubit_kernel.install
-```
-
-## Uruchomienie
-
-Przejdź do głównego katalogu kursu i uruchom środowisko.
-```sh
-jupyter lab
-```
+Pobierz ze [strony](https://codewith.mu/) edytor i go zainstaluj.
